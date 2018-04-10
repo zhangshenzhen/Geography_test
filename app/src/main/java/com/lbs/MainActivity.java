@@ -32,6 +32,8 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+
+
     private static final String TAG = "AppCompatActivity.class";
     public LocationClient mlocationClient;
     public TextView positionText;
